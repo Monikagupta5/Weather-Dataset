@@ -1,7 +1,2 @@
 # Weather-Dataset
-It's my Python project over the Weather dataset which includes functions like nunique() & unique(), value_counts(), getgroup(), rename(), isnull() & notnull()... 
- What is the Standard Deviation of 'Pressure'  in this data?
- Find all the unique 'Wind Speed' values in the data.
- Find out all the Null Values in the data.
- What is the Variance of 'Relative Humidity' in this data ?
- And many more...
+I'm working on a Python project involving a weather dataset. The dataset has several functions like nunique() and unique(), value_counts(), getgroup(), rename(), isnull(), and notnull(). I need to calculate the standard deviation of the 'Pressure' variable in the dataset, find all the unique values for 'Wind Speed', identify any null values in the dataset, compute the variance of 'Relative Humidity', and perform various other tasks. How can I help you with these specific tasks?
